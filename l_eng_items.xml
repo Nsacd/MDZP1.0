@@ -1099,7 +1099,56 @@
 	<name>帆布</name>
 </item>
 
+<item>
+	<id>118</id>
+	<name>橡皮膏</name>
+</item>
+
+<item>
+	<id>119</id>
+	<name>烟雾弹</name>
+</item>
+
+<item>
+	<id>120</id>
+	<name>香烟</name>
+</item>
+
+<item>
+	<id>121</id>
+	<name>啤酒</name>
+</item>
+
+<item>
+	<id>122</id>
+	<name>环氧树脂胶</name>
+</item>
+
+<item>
+	<id>123</id>
+	<name>肥料</name>
+</item>
+
+<item>
+	<id>124</id>
+	<name>激光瞄准器</name>
+</item>
+
+<item>
+	<id>125</id>
+	<name>打火机</name>
+</item>
+
+<item>
+	<id>126</id>
+	<name>军官钥匙卡</name>
+</item>
+
 <!--Update 1.5.0 gear and weapons-->
+<item>
+	<id>366</id>
+	<name>棒的连帽衫</name>
+</item>
 
 <item>
 	<id>406</id>
@@ -1124,6 +1173,16 @@
 <item>
 	<id>190</id>
 	<name>消音雷明顿</name>
+</item>
+
+<item>
+	<id>191</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>192</id>
+	<name>Vector</name>
 </item>
 
 <item>

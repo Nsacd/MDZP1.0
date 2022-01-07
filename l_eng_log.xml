@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+﻿<?xml version="1.0" ?>
 
 <list>
 
@@ -57,7 +57,7 @@
 
 <text>
 	<id>11</id>
-	<name>武器损坏了！</name>
+	<name>武器损坏了</name>
 </text>
 
 <text>
@@ -144,7 +144,7 @@
 
 <text>
 	<id>40</id>
-	<name>我需要在地上放置火炉套装来点火</name>
+	<name>我需要在地上放置营火套装来点火</name>
 </text>
 
 <text>
@@ -194,7 +194,7 @@
 
 <text>
 	<id>50</id>
-	<name>我已喝了水瓶里的水.</name>
+	<name>我已喝了水瓶里的水</name>
 </text>
 
 <text>
@@ -224,12 +224,12 @@
 
 <text>
 	<id>56</id>
-	<name>我做了一块鱼排</name>
+	<name>我烹煮了一块鱼排</name>
 </text>
 
 <text>
 	<id>57</id>
-	<name>我需要一个燃烧的篝火来做那件事。</name>
+	<name>我需要一个燃烧的篝火来做那件事</name>
 </text>
 
 <text>
@@ -274,7 +274,7 @@
 
 <text>
 	<id>66</id>
-	<name>夜视仪坏了.</name>
+	<name>夜视仪坏了</name>
 </text>
 
 <text>
@@ -294,7 +294,7 @@
 
 <text>
 	<id>70</id>
-	<name>种植</name>
+	<name>已种植</name>
 </text>
 
 <text>
@@ -304,7 +304,7 @@
 
 <text>
 	<id>72</id>
-	<name>我需要一把刀来剥猎物的皮.</name>
+	<name>我需要一把刀来剥猎物的皮</name>
 </text>
 
 <!-- When trying to switch to firearm and you dont have any  -->
@@ -320,7 +320,7 @@
 
 <text>
 	<id>75</id>
-	<name>点击投掷手榴弹的位置.</name>
+	<name>点击投掷手榴弹的位置</name>
 </text>
 
 <text>
@@ -360,7 +360,7 @@
 
 <text>
 	<id>83</id>
-	<name>我需要更多的电池.</name>
+	<name>我需要更多的电池</name>
 </text>
 
 <text>
@@ -382,24 +382,24 @@
 <!-- Friend bots phrases: when player get into house, bot starts patroling entrance  -->
 <text>
 	<id>101</id>
-	<name>我来帮你放哨！</name>
+	<name>我来帮你放哨</name>
 </text>
 
 <text>
 	<id>102</id>
-	<name>你去搜刮，我来掩护！</name>
+	<name>你去搜刮，我来掩护</name>
 </text>
 
 <!-- Friend bots phrase: when player gets on firing line -->
 <text>
 	<id>103</id>
-	<name>你挡住目标了！</name>
+	<name>你挡住目标了</name>
 </text>
 
 <!-- Friend bots phrase: on health lower than 50%  -->
 <text>
 	<id>104</id>
-	<name>嘿，伙计！一起合作吧！</name>
+	<name>嘿，一起合作吧！</name>
 </text>
 
 <!-- Enemy Melee bot phrases on getting hit from firearm-->
@@ -415,13 +415,13 @@
 
 <text>
 	<id>107</id>
-	<name>该死的！</name>
+	<name>该死！</name>
 </text>
 
 <!-- Enemy Bot with firearm when spots player -->
 <text>
 	<id>108</id>
-	<name>给我到这里来！</name>
+	<name>给到这里来！</name>
 </text>
 
 <text>
@@ -448,7 +448,7 @@
 
 <text>
 	<id>126</id>
-	<name>好的.</name>
+	<name>好的</name>
 </text>
 
 <text>
@@ -470,7 +470,7 @@
 
 <text>
 	<id>88</id>
-	<name>这里有毒气！ 我需要防毒面罩！</name>
+	<name>这里有毒气！我需要防毒面罩！</name>
 </text>
 
 <!-- Update 1.3.0 addings -->
@@ -492,7 +492,7 @@
 
 <text>
 	<id>92</id>
-	<name>载具已经加满油。.</name>
+	<name>载具已经加满油</name>
 </text>
 
 <!-- Quests -->
@@ -529,7 +529,7 @@
 
 <text>
 	<id>138</id>
-	<name>谢谢！我已经将奖励标记在你的地图上了</name>
+	<name>谢谢！奖励标已经记在你的地图上了</name>
 </text>
 
 <text>

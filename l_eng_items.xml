@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+﻿<?xml version="1.0" ?>
 
 <list>
 
@@ -61,7 +61,7 @@
 
 <item>
 	<id>12</id>
-	<name>.45ACP弹药</name>
+	<name>.45 ACP 弹药</name>
 </item>
 
 
@@ -117,7 +117,7 @@
 
 <item>
 	<id>23</id>
-	<name>营火工具箱</name>
+	<name>营火</name>
 </item>
 
 <item>
@@ -172,7 +172,7 @@
 
 <item>
 	<id>34</id>
-	<name>热量袋</name>
+	<name>暖宝宝</name>
 </item>
 
 <item>
@@ -247,7 +247,7 @@
 
 <item>
 	<id>49</id>
-	<name>报纸</name>
+	<name>纸</name>
 </item>
 
 <item>
@@ -474,7 +474,7 @@
 
 <item>
 	<id>166</id>
-	<name>运动者22</name>
+	<name>Sporter 22</name>
 </item>
 
 <item>
@@ -509,7 +509,7 @@
 
 <item>
 	<id>173</id>
-	<name>UMP-45冲锋枪</name>
+	<name>UMP-45</name>
 </item>
 
 <item>
@@ -603,7 +603,7 @@
 
 <item>
 	<id>253</id>
-	<name>机车头盔</name>
+	<name>摩托头盔</name>
 </item>
 
 <item>
@@ -705,7 +705,7 @@
 
 <item>
 	<id>305</id>
-	<name>伞兵军医裤</name>
+	<name>护理医用裤</name>
 </item>
 
 <item>
@@ -717,7 +717,7 @@
 
 <item>
 	<id>350</id>
-	<name>T恤衫</name>
+	<name>T恤</name>
 </item>
 
 <item>
@@ -727,7 +727,7 @@
 
 <item>
 	<id>352</id>
-	<name>衬衣</name>
+	<name>衬衫</name>
 </item>
 
 <item>
@@ -752,7 +752,7 @@
 
 <item>
 	<id>357</id>
-	<name>卫衣</name>
+	<name>连帽衫</name>
 </item>
 
 <item>
@@ -762,7 +762,7 @@
 
 <item>
 	<id>359</id>
-	<name>伞兵军医夹克</name>
+	<name>护理医用夹克</name>
 </item>
 
 <item>
@@ -846,7 +846,7 @@
 
 <item>
 	<id>454</id>
-	<name>简易背包</name>
+	<name>简易袋</name>
 </item>
 
 <item>
@@ -970,12 +970,12 @@
 
 <item>
 	<id>100</id>
-	<name>弹药9x18</name>
+	<name>9x18弹药</name>
 </item>
 
 <item>
 	<id>101</id>
-	<name>弹药9x39</name>
+	<name>9x39弹药</name>
 </item>
 
 <item>
@@ -1036,7 +1036,7 @@
 
 <item>
 	<id>105</id>
-	<name>40毫米榴弹发射器</name>
+	<name>40mm榴弹发射器</name>
 </item>
 
 <item>
